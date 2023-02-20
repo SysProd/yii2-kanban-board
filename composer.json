@@ -1,0 +1,24 @@
+{
+  "name": "SysProd/yii2-kanban-board",
+  "description": "Kanban project management software on CSS framework Bootstrap 4 for yii2",
+  "homepage": "https://github.com/SysProd/yii2-kanban-board",
+  "keywords": ["yii2","kanban","kanboard","project management","yii2 project management","yii2 kanban"],
+  "authors": [
+    {
+      "name": "SysProd Igor",
+      "email": "sys.prod@yahoo.com"
+    }
+  ],
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/SysProd/yii2-kanban-board/issues"
+  },
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "SysProd\\KanbanBoard\\": ""
+    }
+  }
+}
